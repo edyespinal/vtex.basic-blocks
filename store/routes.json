@@ -1,5 +1,6 @@
 {
-  "store.custom#basic-blocks-home": {
-    "path": "/basic-blocks/home"
+  "store.custom#basic-blocks": {
+    "path": "/basic-blocks",
+    "title": "Basic Blocks Course"
   }
 }

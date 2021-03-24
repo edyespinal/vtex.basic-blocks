@@ -1,5 +1,5 @@
 {
-  "store.custom#basic-blocks-home": { 
+  "store.custom#basic-blocks": { 
     "blocks": [
       "rich-text",
       "info-card#button-right",
